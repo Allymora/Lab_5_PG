@@ -14,7 +14,7 @@
         android:id="@+id/imgArteLista"
         android:layout_width="241dp"
         android:layout_height="223dp"
-        android:background="@drawable/logo_artelista" />
+        android:background="@drawable/cat2" />
 
     <TextView
         android:layout_width="match_parent"
